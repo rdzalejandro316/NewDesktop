@@ -19,7 +19,7 @@
         </Grid>
 
         <Grid Grid.Row="1" Background="Blue">
-
+            <TextBlock Text="esto es el cuerpo"/>
         </Grid>
 
         <Grid Grid.Row="2" Background="Red">
