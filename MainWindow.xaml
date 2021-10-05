@@ -23,7 +23,7 @@
         </Grid>
 
         <Grid Grid.Row="2" Background="Red">
-
+            <TextBlock Text="Esto es el cuerpo"/>
         </Grid>
 
     </Grid>
