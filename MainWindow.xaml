@@ -15,7 +15,7 @@
 
 
         <Grid Grid.Row="0" Background="Yellow">
-
+            <TextBlock Text="Esto es la cabeza"/>
         </Grid>
 
         <Grid Grid.Row="1" Background="Blue">
