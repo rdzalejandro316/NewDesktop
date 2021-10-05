@@ -15,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace NewDesktop
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
         public MainWindow()
