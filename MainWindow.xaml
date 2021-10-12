@@ -16,6 +16,7 @@
 
         <Grid Grid.Row="0" Background="Yellow">
             <TextBlock Text="Esto es la cabeza"/>
+            <Button Content="papu" Width="100" Height="100" Click="btn1_Click"/>
         </Grid>
 
         <Grid Grid.Row="1" Background="Blue">
