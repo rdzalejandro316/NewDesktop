@@ -25,7 +25,7 @@ namespace NewDesktop
 
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("hola papu");
+            MessageBox.Show("hola papu","alerta",MessageBoxButton.OK,MessageBoxImage.Warning);
         }
 
 
