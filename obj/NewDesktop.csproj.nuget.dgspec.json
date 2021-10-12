@@ -1,33 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\Desktop\\NewDesktop\\NewDesktop.csproj": {}
+    "D:\\GitPruebas\\NewDesktop\\NewDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\Desktop\\NewDesktop\\NewDesktop.csproj": {
+    "D:\\GitPruebas\\NewDesktop\\NewDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\Desktop\\NewDesktop\\NewDesktop.csproj",
+        "projectUniqueName": "D:\\GitPruebas\\NewDesktop\\NewDesktop.csproj",
         "projectName": "NewDesktop",
-        "projectPath": "C:\\Users\\aleja\\Desktop\\NewDesktop\\NewDesktop.csproj",
-        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\Desktop\\NewDesktop\\obj\\",
+        "projectPath": "D:\\GitPruebas\\NewDesktop\\NewDesktop.csproj",
+        "packagesPath": "C:\\Users\\sia_alejo\\.nuget\\packages\\",
+        "outputPath": "D:\\GitPruebas\\NewDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sia_alejo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
